@@ -34,5 +34,5 @@ server over SSH. The server would send files to some fancy storage backend,
 like a cloud hosting provider or a distributed filesystem. I can make this
 in a weekend.
 
-If I made this or something like it and let you use it for free, would you
-use it?
+**If I made this or something like it and let you use it for free, would you
+use it?**
