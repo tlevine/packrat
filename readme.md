@@ -12,7 +12,7 @@ Why not have a more general, less clumsy thing that works like that?
 
 I propose a tool that makes it easy to take backups and hard to delete them.
 Let's call it "PackRat". Minimally, it has a command-line interface with four
-text commands.
+commands.
 
     # Upload one file. Name clashes are reported;
     # existing files are never overwritten.
