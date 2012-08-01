@@ -1,12 +1,12 @@
 PackRat: Backups that you can't delete
 =====
 
-I back things up on email, SmugMug, Google Docs, &c. rather than on my own
-hardware because it's **hard to delete** them from these services and hard
-to lose my authentication credentials. The delete buttons are buried inside
-of menus, and that button normally puts the stuff in some intermediate place
-(the "trash") before deleting them. And I can change the authentication
-credentials as long as I have access to the right email account.
+I back things up on email, Gitorious, SmugMug, GitHub, Google Docs, &c. rather
+than on my own hardware because it's **hard to delete** them from these
+services and hard to lose my authentication credentials. The delete buttons are
+buried inside of menus, and that button normally puts the stuff in some
+intermediate place (the "trash") before deleting them. And I can change the
+authentication credentials as long as I have access to the right email account.
 
 Why not have a more general, less clumsy thing that works like that?
 
